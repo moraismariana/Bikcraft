@@ -1,4 +1,9 @@
-@import "./padrao.css";
+/* geral */
+@import "./geral/geral.css";
+@import "./geral/cores.css";
+@import "./geral/tipografia.css";
+
+/* home */
 @import "./header.css";
 @import "./introducao.css";
 @import "./bicicletas-lista.css";

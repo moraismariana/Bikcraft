@@ -19,7 +19,7 @@
   display: block;
   max-width: 360px;
   height: 2px;
-  background: #111111;
+  background: var(--c11);
   margin-top: 16px;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .footer a:hover {
-  color: #ffffff;
+  color: var(--cw);
 }
 
 .footer-copy {
