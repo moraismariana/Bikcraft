@@ -3,12 +3,18 @@
 @import "./geral/cores.css";
 @import "./geral/tipografia.css";
 
+/* header e footer */
+@import "./geral/header.css";
+@import "./geral/footer.css";
+
 /* home */
-@import "./header.css";
-@import "./introducao.css";
-@import "./bicicletas-lista.css";
-@import "./tecnologia.css";
-@import "./parceiros.css";
-@import "./depoimento.css";
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+/* termos e condições */
+@import "./termos/termos.css";
+
 @import "./seguros/seguros.css";
-@import "./footer.css";
+@import "./bicicletas/bicicletas-lista.css";
