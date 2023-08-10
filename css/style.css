@@ -2,6 +2,7 @@
 @import "./geral/geral.css";
 @import "./geral/cores.css";
 @import "./geral/tipografia.css";
+@import "./geral/formulario.css";
 
 /* header e footer */
 @import "./geral/header.css";
@@ -21,10 +22,14 @@
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
+/* contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
-/* bicicleta */
+/* bicicleta interna*/
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
