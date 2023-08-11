@@ -33,3 +33,6 @@
 /* bicicleta interna*/
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
+
+/* orçamento */
+@import "./orcamento/orcamento.css";
