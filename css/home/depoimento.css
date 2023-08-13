@@ -27,14 +27,14 @@
 }
 
 .depoimento p::before {
-  content: url(" ../img/dec/aspas/aspas1.svg ");
+  content: url("../../img/dec/aspas/aspas1.svg");
   position: absolute;
   left: -120px;
   top: -60px;
 }
 
 .depoimento p::after {
-  content: url("../img/dec/aspas/aspas2.svg");
+  content: url("../../img/dec/aspas/aspas2.svg");
   position: absolute;
   bottom: -60px;
   right: 20px;
@@ -53,7 +53,7 @@
     justify-self: center;
   }
   .depoimento p::before {
-    content: url("../img/dec/aspas/aspas3.svg");
+    content: url("../../img/dec/aspas/aspas3.svg");
     left: -20px;
     top: -42px;
   }
