@@ -3,6 +3,7 @@
 @import "./geral/cores.css";
 @import "./geral/tipografia.css";
 @import "./geral/formulario.css";
+@import "./geral/animacao.css";
 
 /* header e footer */
 @import "./geral/header.css";
